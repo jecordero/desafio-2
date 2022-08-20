@@ -1,0 +1,42 @@
+
+
+.encabezado {
+    
+    background-image: url(../imagenes/fondo.jpg);
+    font-family: "arial"; color: white;
+    padding: 10px 500px 250px 10px;
+    line-height: 100%;
+}
+.titulo {
+    font-family: "arial";
+    background-color: white;
+}
+.cuerpo {
+    width: 80%;
+    font-family: "arial";
+    font-size: 150%;
+    background-color: white;
+    padding: 0 220px 0 0;
+}   
+/* NO PUDE HACER FUNCIONAR ESTA CLASE */
+.imagen td{
+
+    width: "336px";
+    height: "336px";
+}
+
+.cuerpo td {
+    width: 50%;
+    padding: 0.5em;
+    /* PREGUNTAR ESTE WIDTH */
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
+ /* PREGUNTAR CÓMO FUNCIONA RESPONSIVE */
